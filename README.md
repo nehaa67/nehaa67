@@ -1,5 +1,5 @@
 # GitHubDemo
 My first repository
 <br>
-author-neha shinde
+author-neha (neha shinde)
 
