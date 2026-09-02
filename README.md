@@ -48,3 +48,9 @@ If you're working on something interesting, building a project, or looking for s
 ---
 
 > Build. Learn. Repeat.
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nehaa67&theme=dark&hide_border=true&border_radius=10" alt="Neha's GitHub streak" />
+</p>
