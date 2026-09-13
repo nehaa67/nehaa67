@@ -1,6 +1,6 @@
 # Hey, I'm Neha 👋
 
-I'm a EXTC Engineering student who enjoys building things, breaking them, figuring out why they broke, and then building them better.
+I'm an EXTC Engineering student who enjoys building things, breaking them, figuring out why they broke, and then building them better.
 
 I'm currently exploring software development, AI/ML, web development, and hardware projects. I especially like projects where software has to interact with real-world problems.
 
