@@ -17,7 +17,7 @@ I'm currently exploring software development, web development, and hardware proj
 
 **Languages**
 
-`Python` `C++` `JavaScript` `HTML` `CSS`
+`Python` `JavaScript` `HTML` `CSS`
 
 **Frameworks & Tools**
 
