@@ -27,17 +27,6 @@ I'm currently exploring software development, web development, and hardware proj
 
 `Machine Learning` `Computer Vision` `Geospatial Analysis` 
 
-### Featured Project
-
-🌊 **[Ocean Forensics](https://github.com/nehaa67/Ocean-Forensics)**
-
-A platform for investigating oil spills at sea by combining satellite imagery with AIS vessel data.
-
-The idea is to connect:
-
-**Satellite imagery → Spill detection → Vessel tracking → Geospatial analysis → Vessel attribution**
-
-Currently under development as part of Smart India Hackathon 2026.
 
 ### Let's Connect
 
