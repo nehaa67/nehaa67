@@ -6,7 +6,7 @@ I'm currently exploring software development, web development, and hardware proj
 
 ### Currently
 
-- 💻 Building projects with Python, C++, JavaScript and React
+- 💻 Building projects with Python, JavaScript and React
 - 🛰️ Working on **Ocean Forensics**, a satellite imagery + AIS based oil spill investigation platform
 - 🤖 Exploring AI/ML and computer vision
 - 🔧 Working with Arduino and Raspberry Pi
