@@ -25,7 +25,7 @@ I'm currently exploring software development, web development, and hardware proj
 
 **Exploring**
 
-`Machine Learning` `Computer Vision` `Geospatial Analysis` `IoT`
+`Machine Learning` `Computer Vision` `Geospatial Analysis` 
 
 ### Featured Project
 
